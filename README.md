@@ -1,0 +1,1 @@
+UN repo de platzi para practicar sobre PIP y entornos virtuales
